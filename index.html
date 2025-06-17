@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
   <meta charset="UTF-8">
   <title>CE wiki</title>
@@ -10,17 +11,23 @@
 
   <link rel="shortcut icon" href="./logo.png" type="image/x-icon">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'CraftEngine Wiki',
-      repo: '',
-      loadSidebar: true, //侧边栏
+      repo: 'https://github.com/TATyKeFei/craftengine-wiki',
+      homepage: "README.md",
+      //relativePath: true,
+      notFoundPage: "404.md",
+      loadSidebar: true,
       subMaxLevel: 2,
       sidebarDisplayLevel: 0,
-      auto2top: true, //刷新返回顶部
-      loadNavbar: true //导航栏
+      auto2top: true,
+      loadNavbar: true,
+      //logo: "logo.png",
+      formatUpdated: "最近编辑时间: {YYYY}/{MM}/{DD} {HH}:{mm}:{ss}"
     }
   </script>
   <!-- Docsify v4 -->
@@ -63,5 +70,7 @@
   <!-- 页脚 -->
   <script src="./plugins/footer.js"></script>
 
+
 </body>
+
 </html>
