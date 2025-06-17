@@ -52,3 +52,5 @@ Hello!
 内容
 
 <!-- tabs:end -->
+
+> {docsify-updated}

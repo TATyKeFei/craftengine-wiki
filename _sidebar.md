@@ -2,6 +2,14 @@
 	- [关于 CraftEngine](README.md)
 	- [与其他同类型插件](docs/about/compare.md)
 
+* 开始使用
+   - [物品](docs/tutorial/item/README.md)
+   - [方块](docs/tutorial/block/README.md)
+
+* 协作插件
+   - [Skript](docs/cooperation_plugins/skript.md)
+   - [PlaceholderAPI](docs/cooperation_plugins/PlaceholderAPI.md)
+
 * 注意事项
     - [容易误会的地方](docs/precautions/correct.md)
 	- [兼容性列表](docs/precautions/compatibility_plugin.md)
