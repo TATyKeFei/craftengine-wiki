@@ -1,5 +1,7 @@
 # CraftEngine wiki (非官方)
 
+https://tatykefei.github.io/craftengine-wiki/#/
+
 本网站内容为 MC服务端 CraftEngine 插件的非官方用户编写的wiki
 
 为什么有 官方Wiki 还来个 民间Wiki？ 
