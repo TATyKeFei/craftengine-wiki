@@ -20,6 +20,7 @@ https://tatykefei.github.io/craftengine-wiki/#/
 | :---                 | :---                                                             | :---                                            |
 | 原版Wiki             | https://mo-mi.gitbook.io/xiaomomi-plugins/craftengine            | 由于傻逼Gitbook的原因，国内经常上不去是正常的      |
 | 汉化原版Wiki         | https://momi.gtemc.cn/craftengine                                 | 虽然普遍落后原版几个版本                         |
+| DeepWiki             | https://deepwiki.com/Xiao-MoMi/craft-engine                      | AI生成的wiki，确实够吊                            |
 | Github 插件开源仓库   | https://github.com/Xiao-MoMi/craft-engine                        | 别问为什么开源还收费，有脑子都问不出这种问题        |
 | modrinth             | https://modrinth.com/plugin/craftengine                          | CE 社区版发布页面                                |
 | MineBBS              | https://www.minebbs.com/resources/craftengine.11281/             | 中文搬运帖子，同步[更新日志](https://www.minebbs.com/resources/craftengine.11281/updates) |
