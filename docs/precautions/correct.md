@@ -9,9 +9,9 @@
 `<image>` 不属于 minimessages 格式！这是 CE 的内部变量！
 
 ```
-# 当你启用配置文件 image 下的选项后，可以使用 CE 的内部变量进行替换其他插件的消息
+# 当你启用配置文件 image 下的选项后，可以使用 CE 的内部变量替换其他插件的消息
 #
-# 使用场景用于为一些不支持 minimessages 或 PlaceholderAPI 的上古乐色插件服务
+# 使用场景用于为一些不支持 minimessages 或 PlaceholderAPI 的插件服务
 # 因此请禁用不必要的功能以减轻异步线程负担或者替换现代化的插件
 #
 # 使用方式为: <image:[命名空间]:[id]>
