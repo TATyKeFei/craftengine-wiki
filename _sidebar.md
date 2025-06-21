@@ -11,7 +11,7 @@
    - [PlaceholderAPI](docs/cooperation_plugins/PlaceholderAPI.md)
 
 * 注意事项
-   - [容易误会的地方](docs/precautions/correct.md)
+   - [容易踩坑的地方](docs/precautions/correct.md)
 	- [兼容性列表](docs/precautions/compatibility_plugin.md)
 	- [禁忌](docs/precautions/Taboo.md)
 

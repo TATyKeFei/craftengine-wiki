@@ -4,7 +4,12 @@ Skript 以下将简称 sk，CE 已经兼容了 SK
 
 不说介绍什么的废话了直接开干！
 
-建议配合 [官方wiki skript 教程](https://mo-mi.gitbook.io/xiaomomi-plugins/craftengine/plugin-wiki/craftengine/compatibility/skript) 观看，本教程语法可能会随着插件更新而过时
+> [!WARNING]
+> 注意！编写此页面时插件最新版本为 0.57.6
+>
+> 本教程语法可能会随着插件更新而过时
+>
+> 建议配合 [官方wiki skript 教程](https://mo-mi.gitbook.io/xiaomomi-plugins/craftengine/plugin-wiki/craftengine/compatibility/skript) 观看
 
 ## 物品
 
@@ -12,9 +17,9 @@ Skript 以下将简称 sk，CE 已经兼容了 SK
 
 #### **说明**
 
-物品的 id 为 "[命名空间]:[id]"
+物品的 id 为 `[命名空间]:[id]`
 
-比如 "default:topaz"
+比如 `default:topaz`
 
 #### **示例代码: 进服给菜单**
 
@@ -35,13 +40,23 @@ on join:
 
 #### **说明**
 
-暂无
+编写中
 
 #### **示例: 玩家点击自定义方块时告诉玩家**
 
 ```
-暂无
+编写中
 ```
+
+<!-- tabs:end -->
+
+## 家具
+
+<!-- tabs:start -->
+
+#### **说明**
+
+编写中
 
 <!-- tabs:end -->
 
